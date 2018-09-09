@@ -1,0 +1,14 @@
+C:\Users\Lb\source\repos\gameTry1\gameTry1\bin\Debug\gameTry1.exe.config
+C:\Users\Lb\source\repos\gameTry1\gameTry1\bin\Debug\gameTry1.exe
+C:\Users\Lb\source\repos\gameTry1\gameTry1\bin\Debug\gameTry1.pdb
+C:\Users\Lb\source\repos\gameTry1\gameTry1\obj\Debug\gameTry1.csprojAssemblyReference.cache
+C:\Users\Lb\source\repos\gameTry1\gameTry1\obj\Debug\gameTry1.Properties.Resources.resources
+C:\Users\Lb\source\repos\gameTry1\gameTry1\obj\Debug\gameTry1.csproj.GenerateResource.cache
+C:\Users\Lb\source\repos\gameTry1\gameTry1\obj\Debug\gameTry1.csproj.CoreCompileInputs.cache
+C:\Users\Lb\source\repos\gameTry1\gameTry1\obj\Debug\gameTry1.exe
+C:\Users\Lb\source\repos\gameTry1\gameTry1\obj\Debug\gameTry1.pdb
+C:\Users\Lb\source\repos\gameTry1\gameTry1\obj\Debug\gameTry1.z.resources
+C:\Users\Lb\source\repos\gameTry1\gameTry1\bin\Debug\gameTry1.exe.manifest
+C:\Users\Lb\source\repos\gameTry1\gameTry1\bin\Debug\gameTry1.application
+C:\Users\Lb\source\repos\gameTry1\gameTry1\obj\Debug\gameTry1.exe.manifest
+C:\Users\Lb\source\repos\gameTry1\gameTry1\obj\Debug\gameTry1.application
