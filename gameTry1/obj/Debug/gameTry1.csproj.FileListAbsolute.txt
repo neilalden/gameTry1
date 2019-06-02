@@ -12,3 +12,4 @@ C:\Users\Lb\source\repos\gameTry1\gameTry1\bin\Debug\gameTry1.exe.manifest
 C:\Users\Lb\source\repos\gameTry1\gameTry1\bin\Debug\gameTry1.application
 C:\Users\Lb\source\repos\gameTry1\gameTry1\obj\Debug\gameTry1.exe.manifest
 C:\Users\Lb\source\repos\gameTry1\gameTry1\obj\Debug\gameTry1.application
+C:\Users\Lb\source\repos\gameTry1\gameTry1\obj\Debug\gameTry1.Home.resources

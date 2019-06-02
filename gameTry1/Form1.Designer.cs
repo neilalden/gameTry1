@@ -42,30 +42,30 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.ForeColor = System.Drawing.Color.Aquamarine;
+            this.label1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label1.Location = new System.Drawing.Point(47, 87);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(84, 19);
+            this.label1.Size = new System.Drawing.Size(167, 39);
             this.label1.TabIndex = 0;
             this.label1.Text = "Question   :";
             // 
             // lblTrivia
             // 
             this.lblTrivia.AutoSize = true;
-            this.lblTrivia.ForeColor = System.Drawing.Color.Aquamarine;
+            this.lblTrivia.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lblTrivia.Location = new System.Drawing.Point(137, 133);
             this.lblTrivia.Name = "lblTrivia";
-            this.lblTrivia.Size = new System.Drawing.Size(366, 19);
+            this.lblTrivia.Size = new System.Drawing.Size(734, 39);
             this.lblTrivia.TabIndex = 1;
             this.lblTrivia.Text = "lorem ipsum dolor sit amet, consectetur adipiscing elit.";
             // 
             // radioA
             // 
             this.radioA.AutoSize = true;
-            this.radioA.ForeColor = System.Drawing.Color.Aquamarine;
+            this.radioA.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.radioA.Location = new System.Drawing.Point(219, 179);
             this.radioA.Name = "radioA";
-            this.radioA.Size = new System.Drawing.Size(111, 23);
+            this.radioA.Size = new System.Drawing.Size(218, 43);
             this.radioA.TabIndex = 2;
             this.radioA.TabStop = true;
             this.radioA.Text = "radioButton1";
@@ -74,10 +74,10 @@
             // radioB
             // 
             this.radioB.AutoSize = true;
-            this.radioB.ForeColor = System.Drawing.Color.Aquamarine;
+            this.radioB.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.radioB.Location = new System.Drawing.Point(219, 208);
             this.radioB.Name = "radioB";
-            this.radioB.Size = new System.Drawing.Size(111, 23);
+            this.radioB.Size = new System.Drawing.Size(218, 43);
             this.radioB.TabIndex = 3;
             this.radioB.TabStop = true;
             this.radioB.Text = "radioButton2";
@@ -86,10 +86,10 @@
             // radioC
             // 
             this.radioC.AutoSize = true;
-            this.radioC.ForeColor = System.Drawing.Color.Aquamarine;
+            this.radioC.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.radioC.Location = new System.Drawing.Point(219, 237);
             this.radioC.Name = "radioC";
-            this.radioC.Size = new System.Drawing.Size(111, 23);
+            this.radioC.Size = new System.Drawing.Size(218, 43);
             this.radioC.TabIndex = 4;
             this.radioC.TabStop = true;
             this.radioC.Text = "radioButton3";
@@ -98,10 +98,10 @@
             // radioD
             // 
             this.radioD.AutoSize = true;
-            this.radioD.ForeColor = System.Drawing.Color.Aquamarine;
+            this.radioD.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.radioD.Location = new System.Drawing.Point(219, 266);
             this.radioD.Name = "radioD";
-            this.radioD.Size = new System.Drawing.Size(111, 23);
+            this.radioD.Size = new System.Drawing.Size(218, 43);
             this.radioD.TabIndex = 5;
             this.radioD.TabStop = true;
             this.radioD.Text = "radioButton4";
@@ -120,28 +120,28 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.ForeColor = System.Drawing.Color.Aquamarine;
+            this.label2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label2.Location = new System.Drawing.Point(371, 87);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(60, 19);
+            this.label2.Size = new System.Drawing.Size(120, 39);
             this.label2.TabIndex = 8;
             this.label2.Text = "Score   :";
             // 
             // lblScore
             // 
             this.lblScore.AutoSize = true;
-            this.lblScore.ForeColor = System.Drawing.Color.Aquamarine;
+            this.lblScore.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lblScore.Location = new System.Drawing.Point(437, 87);
             this.lblScore.Name = "lblScore";
-            this.lblScore.Size = new System.Drawing.Size(17, 19);
+            this.lblScore.Size = new System.Drawing.Size(33, 39);
             this.lblScore.TabIndex = 9;
             this.lblScore.Text = "0";
             // 
             // z
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 19F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 39F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(27)))), ((int)(((byte)(37)))), ((int)(((byte)(50)))));
+            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(802, 414);
             this.Controls.Add(this.lblScore);
             this.Controls.Add(this.label2);

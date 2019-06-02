@@ -317,5 +317,11 @@ namespace gameTry1
                 radioD.Text = "horn";
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Home zxc = new Home();
+            zxc.Show();
+        }
     }
 }
